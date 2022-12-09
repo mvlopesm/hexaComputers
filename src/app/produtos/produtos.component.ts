@@ -9,13 +9,13 @@ import { ProdutosService } from '../produtos.service';
 })
 export class ProdutosComponent implements OnInit {
 
-  produtos: IProduto[] | undefined
+  produtos: IProduto[] | undefined;
 
   constructor (
     private produtosService: ProdutosService
   ) {  }
 
   ngOnInit(): void {
-    this.produtos = this.produtosService.getAll()
+    this.produtos = this.produtosService.getAll();
   }
 }

@@ -16,7 +16,7 @@
 }
 
 .search-form input:focus {
-    background-color: var(--blue);
+    background-color: var(--green);
     outline: none;
     color: #fff;
 }
@@ -24,7 +24,7 @@
 .search-form button{
     width: 56px;
     height: 56px;
-    background-color: var(--blue);
+    background-color: var(--green);
     border:none;
     color: #fff;
     font-size: 22px;

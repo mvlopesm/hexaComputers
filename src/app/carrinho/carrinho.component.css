@@ -48,7 +48,7 @@ input {
 }
 
 .buy-button {
-    background-color: var(--blue);
+    background-color: var(--green);
     border: none;
     color: white;
     padding: 10px;

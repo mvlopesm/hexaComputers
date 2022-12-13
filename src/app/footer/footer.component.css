@@ -23,7 +23,7 @@
 .footer__title {
     font-size: 22px;
     font-weight: bold;
-    color: var(--blue);
+    color: var(--green);
     margin-bottom: 5px;
 }
 
@@ -34,7 +34,8 @@
 
 
 .footer i {
-    color: var(--orange);
+    color: var(--blue)
+
 }
 
 .footer li {

@@ -19,7 +19,7 @@
 }
 
 .product-list__card:hover {
-    outline: 1px solid var(--blue);
+    outline: 1px solid var(--green);
     transform: scale(1.1, 1.1);
     cursor: pointer;
 }
@@ -41,11 +41,11 @@
 
 .product-item__name {
     font-size: 24px;
-    color: var(--blue);
+    color: var(--green);
 }
 
 .product-item__price {
-    color: var(--orange);
+    color: var(--blue);
     font-size: 32px;
     font-weight: bold;
 }
@@ -57,7 +57,7 @@
 }
 
 .product-item__buy-button {
-    background-color: var(--blue);
+    background-color: var(--green);
     border: none;
     color: white;
     font-size: 20px;
